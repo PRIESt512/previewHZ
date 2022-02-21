@@ -1,0 +1,5 @@
+hazelcast:
+  client:
+    clusterAddress: "127.0.0.1:5701"
+    clusterName: dev
+  healthcheck-map-name: healthcheck
